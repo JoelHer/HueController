@@ -1,0 +1,10 @@
+
+{
+    "bridges": [
+      {
+        "id": "001788fffeb3280c",
+        "internalipaddress": "192.168.178.20",
+        "port": 443
+      }
+    ]
+}
