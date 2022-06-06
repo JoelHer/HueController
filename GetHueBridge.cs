@@ -28,6 +28,8 @@ public class GetHueBridge{
             BridgeIP = "ERROR:NOTFOUND";
         }
 
+        HueBridge.ip = BridgeIP.ToString();
+        HueBridge.name = "defaultname";
         return BridgeIP.ToString();
     }
 

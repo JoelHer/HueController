@@ -10,6 +10,7 @@ namespace HueController.Appearance
         public static Color PrimaryBackgroundDark { get { return Color.FromArgb(33, 37, 41); } }
         public static Color SecondaryDark { get { return Color.FromArgb(52, 58, 64); } }
         public static Color ForeColorDark { get { return Color.FromArgb(248, 249, 250); } }
+        public static Color ForeColorDarkLink { get { return Color.FromArgb(108, 117, 125); } }
     }
 
     class Borders
