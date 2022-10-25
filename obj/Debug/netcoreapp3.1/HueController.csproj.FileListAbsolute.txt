@@ -20,3 +20,25 @@ D:\Visual Studio Repos\HueController\HueController\HueController\bin\Debug\netco
 D:\Visual Studio Repos\HueController\HueController\HueController\obj\Debug\netcoreapp3.1\HueController.AboutBox1.resources
 D:\Visual Studio Repos\HueController\HueController\HueController\obj\Debug\netcoreapp3.1\HueController.csproj.AssemblyReference.cache
 D:\Visual Studio Repos\HueController\HueController\HueController\obj\Debug\netcoreapp3.1\HueController.AboutBox2.resources
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.exe
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.deps.json
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.runtimeconfig.json
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.runtimeconfig.dev.json
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.dll
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\HueController.pdb
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repos\HueController\bin\Debug\netcoreapp3.1\Rssdp.dll
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.csproj.AssemblyReference.cache
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.AboutBox1.resources
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.AboutBox2.resources
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.Form1.resources
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.Properties.Resources.resources
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.csproj.GenerateResource.cache
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.AssemblyInfoInputs.cache
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.AssemblyInfo.cs
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.csproj.CoreCompileInputs.cache
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.csproj.CopyComplete
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.dll
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.pdb
+D:\Repos\HueController\obj\Debug\netcoreapp3.1\HueController.genruntimeconfig.cache

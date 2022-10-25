@@ -121,7 +121,6 @@ namespace HueController
             this.richTextBoxInfo.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBoxInfo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(58)))), ((int)(((byte)(64)))));
             this.richTextBoxInfo.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.richTextBoxInfo.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBoxInfo.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.richTextBoxInfo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(249)))), ((int)(((byte)(250)))));
             this.richTextBoxInfo.Location = new System.Drawing.Point(24, 18);
